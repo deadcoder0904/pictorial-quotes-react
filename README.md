@@ -1,6 +1,6 @@
 # pictorial-quotes-react
 
-> :innocent: Awesome Pictorial Quotes(over 500 images :open_mouth: ) made using React
+> :innocent: Awesome Pictorial Quotes(over 500 images :open_mouth:) made using React
 
 # Screenshot
 
